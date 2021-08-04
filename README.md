@@ -11,6 +11,9 @@
 
 ## Technologies
 
+
+This was run on a pc using Windows 10
+
 This project leverages python 3.8.8 with the following packages:
 
 
@@ -35,13 +38,6 @@ In gitbash after you have activated your dev environment, install the following:
 ```python
   pip install jupyter lab
 ```
-   
-*Plotly
-
-    `conda install -c plotly plotly=4.13`
-    
-![install plotyly](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_plotly.JPG)
-
 
 *Pyviz Hvplot
 
@@ -50,7 +46,17 @@ In gitbash after you have activated your dev environment, install the following:
 ![install pyviz hvplot](https://github.com/mckayav3/Module7_Challenge/blob/main/images/install_pyviz_hvplot.JPG)
 
 
+*Scikit Learn
+
+    `conda install -U scikit-learn`
+    
+![install scikit-learn](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/install_scikitlearn.png)
 
 ---
 
 ## Examples
+
+The images below show the different types of charts and graphs that should be a result from running the code in the Crypto Investments application. By reviewing the charts and graphs we can conclude the best outcome for the Crypto Investment portfolio.
+
+
+
