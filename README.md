@@ -1,11 +1,6 @@
 # Module_10_Challenge: Cypto Investments
 
-
-
-
-
-
-
+This application analyzes cryptocurrencies and their performances over different periods of time. After analyzing the cryptocurrencies their results are then plotted to make a comprehensive assessment of the visualizations of the data.
 
 ---
 
@@ -58,5 +53,13 @@ In gitbash after you have activated your dev environment, install the following:
 
 The images below show the different types of charts and graphs that should be a result from running the code in the Crypto Investments application. By reviewing the charts and graphs we can conclude the best outcome for the Crypto Investment portfolio.
 
+![market dataframe](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/df_market_data.png)
 
+![hvplot market dataframe](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/hvplot_df_market_data.png)
+
+![scaled market data](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/scaled_df_market_data.png)
+
+![scatter plot](https://github.com/mckayav3/Module_10_Challenge/tree/main/images)
+
+![elbow curve](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/elbow_hvplot.png)
 
