@@ -59,7 +59,7 @@ The images below show the different types of charts and graphs that should be a 
 
 ![scaled market data](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/scaled_df_market_data.png)
 
-![scatter plot](https://github.com/mckayav3/Module_10_Challenge/tree/main/images)
+![scatter plot](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/scatter_scaled_df_market_data.png)
 
 ![elbow curve](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/elbow_hvplot.png)
 
