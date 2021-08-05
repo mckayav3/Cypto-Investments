@@ -64,3 +64,13 @@ The images below show the different types of charts and graphs that should be a 
 ![elbow curve](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/elbow_hvplot.png)
 
 ![k4 and k5 scatter](https://github.com/mckayav3/Module_10_Challenge/blob/main/images/k4_k5_scatterplot.JPG)
+
+---
+
+## Contributors
+
+Andrew McKay
+
+Email: andrew.v.mckay@gmail.com
+
+---
